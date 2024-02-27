@@ -1,14 +1,14 @@
 ---
 title: 'The Ten Types of Humans by Dexter Dias'
-date: 2012-08-14
-permalink: /posts/2022/12/the_ten_types_of_humans/
+date: 2022-01-17
+permalink: /posts/2022/01/the_ten_types_of_humans/
 tags:
   - book review
 ---
 
 Suggestion
 ------
-Should read if time avails.
+Recommened reading if time avails
 
 
 Review

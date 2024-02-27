@@ -1,0 +1,38 @@
+---
+title: 'No God but God: The Origins, Evolution and Future of Islam by Reza Aslan'
+date: 2024-02-28
+permalink: /posts/2024/02/no_god_but_god/
+tags:
+  - book review
+---
+
+Suggestion
+------
+Strongly recommended if you are willing to examine religion objectively.
+
+Disclaimer: The facts presented in this review are based off of what I have read and interpreted from the book, with all its possible misinformation and biases. I am by no means knowledgable in Islam, the Quaran or the Muslim people, and acknowledge that what I've written here may be erronous. If you know that I'm wrong about something, point it out and correct me. I am more than happy to listen to more informed views than mine.
+
+
+Summary
+======
+In this book, the author presents the history of development of Islam. Nearly half of the book is devoted to the very inception of the religion, from Prophet Muhammad in 7th century BC to his direct successors, while the other half discusses more recent developments after World War 2. Interspersed within the historical facts, are also discussions on modern views of these historical events, and illustrations on how Islam is changing, and looking to change, in the future.
+
+The author begins with Prophet Muhammad and the inception of Islam, in the historical context of Mecca at the time. The Ka'bah, which was a religious symbol long before Islam, allowed Mecca to develop into a city. Along with city life came a reversal of power between the sexes: what used to be a matriarchal tribal society became dominated by men who owned businesses. Against this culture norm came the message of Prophet Muhammad: calling for social equity that gave more power to women, and to free slaves at a time where slavery was the norm. He established that Allah was the same entity as God in Christianity and Yahweh in Judaism (which were both established religions by this time), specifically identifying them as 'protected people' who, and whose beliefs were, to be respected. These points lead to the question: how did such a religion, that embraced other beliefs and called for equality, develop into the Jew-Arab conflict and the discrimination against women that are present in some Islamic states today?
+
+The following chapters dicsuss the successors to the Prophet, and its ties to the separation into the orthodox Sunni and the Shia factions. In their original form, the Sunnis represented those who believed that political and religious authority should not go to one person or family; in this case, the relatives of the Prophet himself. The Shia believed otherwise, and that only a relative of the Prophet is fit to lead the Muslim community in both aspects. However, the author presents this divide as being mainly political in division. The old families that were in power before the Prophet came desired their power back; the Prophet's family desired their hard-earned power for themselves. In short, a struggle for political power between two parties; nothing new or exceptional, even at that point in history. So how did what was a political issue long ago become such a religious divide in recent history?
+
+For a large part of Islam's history past the Prophet's death, the Muslims in the Middle East were represented by a single state and government. While it went through many rulers and dynasties, perhaps the most well-known would be the long-powerful Ottoman empire. It is only in recent times, after the breaking up of the Ottoman empire post-World War 1, that the Arabic Muslim community split up into different countries and nationalities; a singular Islam nation suddenly broken into multiple, each with its own leader. This led to many separate attempts to bring the Muslim world back together again, each led by people with differing views on what a Muslim community should be. Does everyone need to believe in a specific branch of Islam, or should various interpretations be allowed? Does such a Muslim state require a singular Caliphate that holds all political authority like the monarchy in the past (Saudi Arabia), or is Islam also compatible with democracy (Pakistan)? 
+
+The author ties all of these questions together to the Ulama: the small group of (mostly male) authorative religious figures that have had full religious authority till recent history. After the Prophet and the first generations of converts passed, the Ulama were the people that were consulted for any matters both religious and legal. As time passed, they became the people who dictated what Islam is. Some have spoken for acceptance of other religions and equality, much like the original message by the Prophet. But many have preached otherwise: interpreting the Qaran as saying that women are second-class citizens, and that any non-Muslim and Muslims that do not believe in that specific interpretation of the Qaran should be punished, among others. This has lead to, either directly or indirectly, many of the problems posed above: how some Muslims reject other beliefs and equality for women; why the Suffis and Shias fight a religious war; why nations like Saudi Arabia where strict religious laws exist.
+
+But recent technological developments are changing the status quo of the Ulama. With the development and ease of access to telecommunications, the internet, and social media, many people without actual religious studies have started sharing their own interpretations of the Qaran and Islam. The rights and wrongs within Islam, which has been for so long dictated by a small minority of the Muslim population, has now fast dispersed to a wider public. The effects are already apparent: many more Muslims are favouring and advocating for democracies, desiring the freedom of choice to choose their political leaders. Many Muslims, including many within the Ulama itself, speak against the force that is Jihadism that has arised in recent history. Many women advocate for a re-interpretation of the Qaran beyond its historical context as being written in a male-dominated society, to interpret it in modern terms, with more equality between the sexes. 
+
+As the author states at the end of the book: we're living through the time of revolution for Islam. I am certainly very curious as to how and what it will develop into.
+
+Readability
+======
+For the most part, this book is easy to follow as it presents the history of Islam is a chronological manner. However, because the book itself is short (~300 pages), the author was not able to detail the full history. The result is a large time-skip between the time of Prophet Muhammad and the modern era. While some specific events within this thousand-year gap is presented, they are only given brief historical contexts. The details that are presented here are still fully understandable; however, given their brievity, there is much less information based on which one can form their own conclusions. 
+
+Personal Thoughts
+======
+The Islamic religion has always been a mystery for me. While its religious practices such as Ramadan and the Haji pilgrimage are well-known and accepted (especially in a country like Singapore), I had no clue as to the reason behind them, or how the belief system in Islam worked. On the other end of spectrum are the more extreme parts of Islam that has received world attention in recent history: the Sunni-Shia divide, the rise of Jihadism, and the Israel-Palestinian conflict. So when I saw the title of this book at a random book fair, I had to pick it up and give it a read. And while I cannot speak for the accuracy or the biases that may be present, I have definitely learnt much about Islam and about religions in general.
