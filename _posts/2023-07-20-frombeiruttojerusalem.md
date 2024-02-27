@@ -9,6 +9,7 @@ tags:
 Suggestion
 ------
 Definite book to read if you're interested in the topic.
+
 After reading multiple news articles about the ongoing Israel-Palestine conflict through Western media, I picked up this book through a recommendation from a friend to better understand what is happening between the two neighbouring entities. If you're in a similar position to which I was in, I would definitely recommend this book as an introduction to the region and the modern reason behind this conflict.
 
 

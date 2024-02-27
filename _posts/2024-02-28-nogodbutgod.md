@@ -1,6 +1,6 @@
 ---
 title: 'No God but God: The Origins, Evolution and Future of Islam by Reza Aslan'
-date: 2024-02-28
+date: 2024-02-17
 permalink: /posts/2024/02/no_god_but_god/
 tags:
   - book review
