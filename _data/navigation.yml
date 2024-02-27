@@ -13,7 +13,7 @@ main:
  #   url: /portfolio/
         
   - title: "Book Reviews"
-    url: /book-reviews/
+    url: /book_reviews/
     
   - title: "CV"
     url: /cv/
