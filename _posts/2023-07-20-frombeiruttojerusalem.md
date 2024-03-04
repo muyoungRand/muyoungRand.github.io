@@ -6,7 +6,7 @@ tags:
   - book review
 ---
 
-Suggestion
+Recommendation
 ------
 Definite book to read if you're interested in the topic.
 

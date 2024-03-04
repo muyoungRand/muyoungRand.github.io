@@ -6,7 +6,7 @@ tags:
   - book review
 ---
 
-Suggestion
+Recommendation
 ------
 More of a niche read for those who are interested in the history of mankind and how chickens played an important part of it.
 

@@ -6,7 +6,7 @@ tags:
   - book review
 ---
 
-Suggestion
+Recommendation
 ------
 Recommened reading if time avails
 

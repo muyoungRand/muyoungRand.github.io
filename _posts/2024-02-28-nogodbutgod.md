@@ -6,7 +6,7 @@ tags:
   - book review
 ---
 
-Suggestion
+Recommendation
 ------
 Strongly recommended if you are willing to examine religion objectively.
 
@@ -31,7 +31,11 @@ As the author states at the end of the book: we're living through the time of re
 
 Readability
 ======
-For the most part, this book is easy to follow as it presents the history of Islam is a chronological manner. However, because the book itself is short (~300 pages), the author was not able to detail the full history. The result is a large time-skip between the time of Prophet Muhammad and the modern era. While some specific events within this thousand-year gap is presented, they are only given brief historical contexts. The details that are presented here are still fully understandable; however, given their brievity, there is much less information based on which one can form their own conclusions. 
+For the most part, this book is easy to follow as it presents the history of Islam is a chronological manner. The author takes time to explain the historical, social and economical circumstances during the events that are explained in detail. The readers are thus given the full picture to best understand the history as objective as possible (within the limits of the biases of the author), as well as enable them to come to their own conclusiosn in some aspects.
+
+However, because the book itself is short (~300 pages), the author was not able to detail a detailed history. The result is a large time-skip between the time of Prophet Muhammad and the modern era. While some specific events within this thousand-year gap is presented, they are only given brief historical contexts. The details that are presented here are still understandable; however, given their brievity, there is much less information based on which one can form their own conclusions. 
+
+The language was slightly difficult, and I had to look up the definitions of multiple words for this read. However, the author also does provide very helpful definitions long the way: for example, the difference between orthodoxic (a common interpretation) and orthopraxic (a common practice) religions.  
 
 Personal Thoughts
 ======
